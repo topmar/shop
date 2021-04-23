@@ -1,6 +1,6 @@
 # Project: <BR> Aplikacja sklepu z trzema profilami.
 ___
-Projekt został napisany w javie 11 z urzyciem narzędzia maven w wersji 4.0. i jest aplikacją konsolową.
+Projekt został napisany w javie 11 z użyciem narzędzia maven w wersji 4.0. i jest aplikacją konsolową.
 
 
 W celu uruchomienia programu proszę wykonać poniższą komendę w systemie windows:\
